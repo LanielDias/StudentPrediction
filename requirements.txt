@@ -4,4 +4,4 @@ numpy
 scikit-learn
 plotly
 matplotlib
-tensorflow
+tensorflow-cpu
